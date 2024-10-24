@@ -21,7 +21,7 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
 2. Create a Beautiful Soup object and use it to extract text elements from the website.
 3. Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
     - Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following:
-    
+
         {'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm",
         'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}
 
@@ -58,3 +58,8 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
         - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
         - Visually estimate the result by plotting the daily minimum temperature of each observation.
 6. Export the DataFrame to a CSV file.
+
+<h2>Resources</h2>
+
+- <a href="https://static.bc-edx.com/data/web/mars_news/index.html">The Mars News website</a> is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from <a href="https://science.nasa.gov/mars/">NASA's Mars News</a> website in November 2022. Images are used according to the <a href="https://www.jpl.nasa.gov/jpl-image-use-policy/">JPL Image Use Policy</a>, courtesy NASA/JPL-Caltech.
+- Xpert Learning Assistant
